@@ -78,6 +78,11 @@ footer {
 
 /* Socials */
 
+.socials{
+  margin: top 20px;
+  padding-top: 50px;
+}
+
 .insta{
   padding: 10px 10px;
 }
